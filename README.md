@@ -1,0 +1,2 @@
+# pyWinMacro
+python Window Macro
