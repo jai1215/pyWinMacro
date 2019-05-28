@@ -1,5 +1,25 @@
 Window Python Macro
-1. Capture
-2. Make Macro
-3. Run Macro
-Git Test
+===================
+Make Macro
+--------------
+- On State Plate [pyQT?]
+    * Get Mouse Position [pyAutoGui]
+    * Key Guide
+    * Show Current States
+- Capture Image [PIL:ImageGrab]
+    * Draw On Screen
+- Record Actions [pyAutoGui]
+- Macro Commands [Python]
+    * Mouse Event 
+    * Key Event
+    * Image Matching
+    * Flow Control : for, if, exception
+
+Run Macro
+----------------
+- Image Matching [Cpython]
+    * Accelerate with cython
+- Mouse Event [pyAutoGui]
+- KeyBoard Event [pyAutoGui]
+    * Use autopython?
+- Flow Control [Python]
